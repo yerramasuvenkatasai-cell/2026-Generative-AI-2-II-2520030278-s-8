@@ -2,10 +2,10 @@
 
 ## Fee Query Assistant using RAG and Multilingual Tokenization
 # team-1
-# names : venkata sai
-#         Darahasini
+ names :  venkata sai
+          Darahasini
 
-# instructor : Dr.shaik Asif
+**instructor : Dr.shaik Asif**
 
 College students and parents frequently require accurate information about tuition fees, payment deadlines, late-fee rules, instalments, scholarship conditions, and payment procedures. This information is commonly distributed across notices, circulars, and PDF documents, making it time-consuming to locate and difficult to understand for users who prefer a local language. General-purpose chatbots may also produce answers that are not supported by institutional documents.
 
