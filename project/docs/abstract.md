@@ -3,6 +3,7 @@
 ## Fee Query Assistant using RAG and Multilingual Tokenization
 # team-1
  names :  venkata sai
+          
           Darahasini
 
 **instructor : Dr.shaik Asif**
