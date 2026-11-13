@@ -40,9 +40,5 @@ Question → retrieve relevant approved fee-document sections → generate sourc
 - Test answer correctness, retrieval relevance, citations, language correctness, and response time
 - GitHub: abstract, literature survey, research-paper references, and repository structure ready
 
-## Speaking roles
-
-- **Darahasini:** Slides 1–3 (title, problem, societal need)
-- **Venkata Sai:** Slides 4–6 (solution, feasibility, novelty/evaluation)
 
 
