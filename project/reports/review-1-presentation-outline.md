@@ -1,4 +1,4 @@
-# Review-1 Presentation Outline
+# Review-1 Presentation 
 
 ## Slide 1 — Title and team
 
