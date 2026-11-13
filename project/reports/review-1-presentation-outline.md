@@ -2,11 +2,11 @@
 
 ## Slide 1 — Title and team
 
-**RAG-Based Multilingual Fee Query Assistant for College Students**
+**Fee Query Assistant using RAG and Multilingual Tokenization**
 
 - Darahasini — 2520030289
 - Venkata Sai — 2520030278
-- Supervisor: To be added
+- Supervisor: Dr.Shaik Asif
 
 ## Slide 2 — Problem statement
 
@@ -44,5 +44,5 @@ Question → retrieve relevant approved fee-document sections → generate sourc
 
 - **Darahasini:** Slides 1–3 (title, problem, societal need)
 - **Venkata Sai:** Slides 4–6 (solution, feasibility, novelty/evaluation)
-- Both members should answer questions on the full project.
+
 
